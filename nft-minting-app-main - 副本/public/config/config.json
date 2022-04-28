@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc08568430977036463b9a08f12de1fcb1092af6f",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x8fc0db235c1d1f1818b61f57369764317c8991914ede6652b67a119c7a15c0b7",
+  "NETWORK": {
+    "NAME": "Ethereum Testnet Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "jP1e8CaCk6",
+  "SYMBOL": "Nic Meta",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-kingdom",
+  "SHOW_BACKGROUND": true
+}
